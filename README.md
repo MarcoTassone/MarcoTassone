@@ -30,4 +30,3 @@ Di recente mi sono dedicato anche allo sviluppo software con **Unity e C#**, app
 
 ## Contatti
 - Email: tassonemarco67@gmail.com
-- LinkedIn: https://www.linkedin.com/in/marco-tassone-233643218/
